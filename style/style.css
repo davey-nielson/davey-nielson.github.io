@@ -6,7 +6,7 @@ body {
 .header {
     background-color: white;
     border-style: dotted;
-    width: 1000px;
+    width: 500px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -17,7 +17,16 @@ body {
     background-color: white;
     border-style: dotted;
     width: 1000px;
-    text-align: center;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
+}
+
+img {
+    float: right;
+}
+table, th,td {
+    border: 1px solid black;
+    padding: 3px;
+    border-spacing: 3px;
 }
