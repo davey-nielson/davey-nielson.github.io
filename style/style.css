@@ -23,7 +23,7 @@ h2 {
 
 
 .content {
-    background-color: white;
+    background-color: cornsilk;
     border-style: dotted;
     width: 1000px;
     text-align: left;
@@ -68,4 +68,9 @@ th,td {
 .CS2550 {
     background-color: teal;
     text-align: center;
+}
+
+li {
+    position: relative;
+    left: 20px;
 }
