@@ -4,6 +4,7 @@ body {
     
 }
 h2 {
+    margin-bottom: 20px;
     position: relative;
     left: 20px;
     text-decoration: underline;
@@ -91,5 +92,6 @@ li {
     padding-right: 500px;
 }
 .indent {
-    text-indent: 20px;
+    margin-left: 20px;
+    margin-right: 200px;
 }
